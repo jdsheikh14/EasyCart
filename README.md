@@ -5,7 +5,7 @@
 
 Here are some steps to be followed to register this service to Eureka server.
 
-## Building the demo
+### Building the demo
 Run the following from command line:
 
 ```bash
