@@ -11,7 +11,6 @@
 
 ## Product Service Registeration at Eureka Server
 
-Here are some steps to be followed to register this service to Eureka server.
 
 ### Building the demo
 Run the following from command line:
@@ -20,5 +19,5 @@ Run the following from command line:
 git clone  https://github.com/jdsheikh14/EasyCart.git
 ```
 
-## Installation
+### Installation
 This is a Spring Boot project which is to be used just by invoking it into your project and run to resolve dependencies.
